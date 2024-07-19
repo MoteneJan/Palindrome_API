@@ -1,2 +1,16 @@
 # Palindrome_API
-API in Java Springboot that takes a string as input and returns the reversed string while checking if the input string is a palindrome (a string that reads the same backward as forward, e.g., racecar). The API should expose these functionalities via an endpoint.
+
+This project is a simple Spring Boot application that provides an API endpoint to check if a string is a palindrome and to return the reversed string.
+
+## Requirements
+
+- Java 8 or higher
+- Maven
+
+## Setup
+
+1. Clone the repository:
+
+```sh
+git clone https://github.com/yourusername/palindrome-api.git
+cd palindrome-api
