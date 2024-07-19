@@ -13,4 +13,4 @@ This project is a simple Spring Boot application that provides an API endpoint t
 
 ```sh
 git clone https://github.com/MoteneJan/Palindrome_API.git
-cd palindrome-api
+cd Palindrome-API
