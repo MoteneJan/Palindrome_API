@@ -12,5 +12,5 @@ This project is a simple Spring Boot application that provides an API endpoint t
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/palindrome-api.git
+git clone https://github.com/MoteneJan/Palindrome_API.git
 cd palindrome-api
